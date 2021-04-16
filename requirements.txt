@@ -1,0 +1,3 @@
+scikit-video
+opencv-python~=4.5.1.48
+numpy
