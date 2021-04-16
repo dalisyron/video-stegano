@@ -1,3 +1,0 @@
-CarrierVideo + Message (PictureToHide) + Stego Key => Stego Video
-
-Stego Video + Stego Key => Message (PictureToHide)	
